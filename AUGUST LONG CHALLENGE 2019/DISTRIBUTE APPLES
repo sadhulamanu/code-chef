@@ -31,7 +31,9 @@ Example Output
 NO
 NO
 YES
+
 Explanation
+
 Example case 1: No matter who is hired, all apples will be in the only box at the end.
 
 Example case 2: At the end, there will be two apples in each box.
